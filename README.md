@@ -1,4 +1,4 @@
 # Tushar-demo
 This is my first Git repository
 <br>
-Author-Tushar singh
+Author-Tushar 
